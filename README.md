@@ -44,3 +44,6 @@ Business Intelligence Dashboards – Real-time sales, finance, or inventory trac
 Weather Monitoring Systems – Displaying current conditions and forecasts from weather APIs
 
 Social Media Analytics – Fetching and analyzing engagement metrics from social APIs
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/cc199a96-2d0f-4395-bd12-f9c4221abe34)
